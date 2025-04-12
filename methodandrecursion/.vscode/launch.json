@@ -6,8 +6,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TextFiles",
+            "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "TextFiles",
+            "projectName": "methodandrecursion_ef9a4cb9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "${file}"
         },
         {
