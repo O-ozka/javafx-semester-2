@@ -6,6 +6,53 @@
     "configurations": [
         {
             "type": "java",
+            "name": "midtermexamAlgo",
+            "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "midtermexamAlgo",
+            "projectName": "tugas_rizka_47ae4e25"
+        },
+        {
+            "type": "java",
+            "name": "UTS",
+            "request": "launch",
+            "mainClass": "UTS",
+            "projectName": "tugas_rizka_47ae4e25"
+        },
+        {
+            "type": "java",
+            "name": "uts",
+            "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "uts",
+            "projectName": "tugas_rizka_47ae4e25"
+        },
+        {
+            "type": "java",
+            "name": "uts",
+            "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "uts",
+            "projectName": "tugas_rizka_47ae4e25"
+        },
+        {
+            "type": "java",
+            "name": "AplikasiNilaiSiswa",
+            "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "AplikasiNilaiSiswa",
+            "projectName": "tugas_rizka_47ae4e25"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "Main",
+            "projectName": "tugas_rizka_47ae4e25"
+        },
+        {
+            "type": "java",
             "name": "Sort",
             "request": "launch",
             "vmArgs": "--module-path D:/RizkaCollege/javafx-sdk-23.0.2/lib --add-modules javafx.controls,javafx.fxml",
